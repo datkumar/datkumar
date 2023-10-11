@@ -7,7 +7,6 @@ Here are some ideas to get you started:
  -->
 
 🌱 I’m currently learning **Back-end** Development in **Node.js** <br>
-📫 Email: *kumar.deshmukh945@gmail.com*
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
